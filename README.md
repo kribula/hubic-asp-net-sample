@@ -5,7 +5,7 @@ hubiC is a cloud storage system and it has an API so you can make integration fr
 First thing to do is to login to your hubiC account (or create a new account - you get 25GB storage for free) and create an application.
 Click your name and choose My account. Then go to the Developers tab and create a new application:
 
-![alt tag](Images/hubiCapp.png)
+![alt tag](Images/hubiCapp.PNG)
 
 Make a note of the values in Client ID and Secret Client - you will be using them later. You must register your application with a domain but you can use a fictional domain if you just want to test the sample on your local computer.
 
